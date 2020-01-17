@@ -1,0 +1,2 @@
+# Inventory Bin Status
+
