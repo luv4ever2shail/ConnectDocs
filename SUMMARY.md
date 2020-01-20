@@ -12,7 +12,7 @@
   * [Creating New Item](home/engineering/creating-new-item/README.md)
     * [Create new item using Solidworks](home/engineering/creating-new-item/create-new-item-using-solidworks.md)
     * [Create new item using SPM Connect](home/engineering/creating-new-item/create-new-item-using-spm-connect.md)
-  * [Edit Item](home/engineering/edit-item/README.md)
+  * [🖊Edit Item](home/engineering/edit-item/README.md)
     * [Edit item using Solidworks](home/engineering/edit-item/edit-item-using-solidworks.md)
     * [Edit item using SPM Connect](home/engineering/edit-item/edit-item-using-spm-connect.md)
 
@@ -65,7 +65,7 @@
 * [Service Reports](general-management/service-reports.md)
 * [Work Order Management](general-management/work-order-management.md)
 
-## 🔒Admin
+## ⚙️️ Admin
 
 * [Admin Control Panel](admin/admin-control-panel/README.md)
   * [Manage Materials](admin/admin-control-panel/manage-materials.md)
@@ -74,7 +74,7 @@
   * [Free User Forms](admin/admin-control-panel/free-user-forms.md)
   * [Application Parameters](admin/admin-control-panel/application-parameters.md)
 
-## Genius Tutorials
+## 🤐Genius Tutorials
 
 * [Assembly Release Steps](genius-tutorials/assembly-release-steps/README.md)
   * [Creating BOM Using Genius ETM from Solidworks](genius-tutorials/assembly-release-steps/creating-bom-using-genius-etm-from-solidworks.md)
@@ -82,7 +82,7 @@
   * [Adding Assembly to Estimate for Release](genius-tutorials/assembly-release-steps/adding-assembly-to-estimate-for-release.md)
   * [Revising assembly on Estimate for Release](genius-tutorials/assembly-release-steps/revising-assembly-on-estimate-for-release.md)
 
-## 🤓Resources
+## 📚Resources
 
 * [Resources Home](resources/resources-home/README.md)
   * [⏬Installing SPM Connect](resources/resources-home/installing-spm-connect.md)
@@ -92,4 +92,5 @@
 * [🔍Quick Tools](search-tips/README.md)
   * [Searching Tips](search-tips/searching-tips.md)
   * [Report Viewer](search-tips/report-viewer.md)
+* [Contact Us](mailto:shail@spm-automation.com)
 

@@ -1,7 +1,5 @@
 # ⏬Installing SPM Connect
 
-## Where can I install **`SPMConnect`**from?
-
 Download and run the setup file below.
 
 {% file src="../../.gitbook/assets/spm-connect.application" caption="SPM Connect" %}
