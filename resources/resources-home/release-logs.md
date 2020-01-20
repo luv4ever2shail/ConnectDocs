@@ -8,12 +8,10 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 
 ### Fixed
 
-* Removed humans, they weren't doing fine with animals.
-
+* 
 ### Changed
 
-* Animals are now super cute, all of them.
-
+* 
 ## 7.19.12.20 - 2019-12-20
 
 ### Fixed
@@ -23,8 +21,6 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 ### Added
 
 * Service Report Module.
-
-
 
 ## 7.20.1.0 - 2019-12-10
 
