@@ -1,9 +1,6 @@
 # Table of contents
 
 * [📌Getting started](README.md)
-* [🔍Quick Tools](search-tips/README.md)
-  * [Searching Tips](search-tips/searching-tips.md)
-  * [Report Viewer](search-tips/report-viewer.md)
 
 ## 📐Engineering <a id="home"></a>
 
@@ -65,11 +62,12 @@
 
 ## 🔒Admin
 
-* [User Management](admin/user-management.md)
-* [Free User Forms](admin/free-user-forms.md)
-* [Application Parameters](admin/application-parameters.md)
-* [Manage Customers](admin/manage-customers.md)
-* [Manage Materials](admin/manage-materials.md)
+* [Admin Control Panel](admin/admin-control-panel/README.md)
+  * [Manage Materials](admin/admin-control-panel/manage-materials.md)
+  * [Manage Customers](admin/admin-control-panel/manage-customers.md)
+  * [User Management](admin/admin-control-panel/user-management.md)
+  * [Free User Forms](admin/admin-control-panel/free-user-forms.md)
+  * [Application Parameters](admin/admin-control-panel/application-parameters.md)
 
 ## Genius Tutorials
 
@@ -81,7 +79,11 @@
 
 ## 🤓Resources
 
-* [🙋‍♂️FAQ](resources/faq.md)
-* [😋Change log](resources/release-logs.md)
-* [⏩Keyboard shortcuts](resources/keyboard-shortcuts.md)
+* [Resources Home](resources/resources-home/README.md)
+  * [⏩Keyboard shortcuts](resources/resources-home/keyboard-shortcuts.md)
+  * [😋Change log](resources/resources-home/release-logs.md)
+  * [🙋‍♂️FAQ](resources/resources-home/faq.md)
+* [🔍Quick Tools](search-tips/README.md)
+  * [Searching Tips](search-tips/searching-tips.md)
+  * [Report Viewer](search-tips/report-viewer.md)
 
