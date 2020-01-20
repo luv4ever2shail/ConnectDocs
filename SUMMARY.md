@@ -5,14 +5,14 @@
 ## 📐Engineering <a id="home"></a>
 
 * [Engineering Home](home/engineering/README.md)
-  * [Bills of Manufacturing](home/engineering/bills-of-manufacturing/README.md)
+  * [🌲Bills of Manufacturing](home/engineering/bills-of-manufacturing/README.md)
     * [Searching for item in BOM](home/engineering/bills-of-manufacturing/searching-for-items.md)
-  * [Where Used](home/engineering/where-used/README.md)
+  * [🖇Where Used](home/engineering/where-used/README.md)
     * [Searching for item in Where Used BOM](home/engineering/where-used/searching-for-item-in-where-used-bom.md)
-  * [Creating New Item](home/engineering/creating-new-item/README.md)
+  * [➕Creating New Item](home/engineering/creating-new-item/README.md)
     * [Create new item using Solidworks](home/engineering/creating-new-item/create-new-item-using-solidworks.md)
     * [Create new item using SPM Connect](home/engineering/creating-new-item/create-new-item-using-spm-connect.md)
-  * [🖊Edit Item](home/engineering/edit-item/README.md)
+  * [✏Edit Item](home/engineering/edit-item/README.md)
     * [Edit item using Solidworks](home/engineering/edit-item/edit-item-using-solidworks.md)
     * [Edit item using SPM Connect](home/engineering/edit-item/edit-item-using-spm-connect.md)
 
@@ -89,8 +89,9 @@
   * [⏩Keyboard shortcuts](resources/resources-home/keyboard-shortcuts.md)
   * [😋Change log](resources/resources-home/release-logs.md)
   * [🙋‍♂️FAQ](resources/resources-home/faq.md)
-* [🔍Quick Tools](search-tips/README.md)
-  * [Searching Tips](search-tips/searching-tips.md)
-  * [Report Viewer](search-tips/report-viewer.md)
+* [🔍Quick Features](search-tips/README.md)
+  * [🌟Favorites](search-tips/favorites.md)
+  * [🔥Searching Tips](search-tips/searching-tips.md)
+  * [📰Report Viewer](search-tips/report-viewer.md)
 * [Contact Us](mailto:shail@spm-automation.com)
 

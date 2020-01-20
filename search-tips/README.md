@@ -1,2 +1,2 @@
-# 🔍Quick Tools
+# 🔍Quick Features
 
