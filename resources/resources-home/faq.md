@@ -8,9 +8,15 @@ description: >-
 
 ## Where can I install **`SPMConnect`**from?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Download and run the setup file below.
 
 {% file src="../../.gitbook/assets/spm-connect.application" caption="SPM Connect" %}
+
+## Error installing `SPMConnect?`
+
+**Refer to page below**
+
+{% page-ref page="installing-spm-connect.md" %}
 
 ## Can I get right access to....?
 

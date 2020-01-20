@@ -80,6 +80,7 @@
 ## 🤓Resources
 
 * [Resources Home](resources/resources-home/README.md)
+  * [⏬Installing SPM Connect](resources/resources-home/installing-spm-connect.md)
   * [⏩Keyboard shortcuts](resources/resources-home/keyboard-shortcuts.md)
   * [😋Change log](resources/resources-home/release-logs.md)
   * [🙋‍♂️FAQ](resources/resources-home/faq.md)
