@@ -6,5 +6,5 @@ To clear out open forms, right click on open form and click **`Free Up Form`**
 
  This will give access to form again for edit.
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 

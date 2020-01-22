@@ -8,11 +8,11 @@ Download and run the setup file below.
 
 Are you seeing an error similar to one listed below? Don't worry, we got you covered.
 
-![Unknown publisher error](../../.gitbook/assets/image%20%286%29.png)
+![Unknown publisher error](../../.gitbook/assets/image%20%289%29.png)
 
 {% file src="../../.gitbook/assets/trustprompt.7z" caption="Trust Prompt" %}
 
 Download the Trust Prompt program and set all parameters **Enabled** `->` **press** `Write to registry`.  
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
