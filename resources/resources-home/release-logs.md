@@ -4,14 +4,13 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 
 # 😋Change log
 
-## 7.20.1.0 - 2020-01-01
+## 7.20.1.23 - 2020-01-23
 
-### Fixed
+### Improvements
 
-* 
-### Changed
+* ECR module : Managers can create ECR and approve it.
+* Shipping module has approval process for new shipping request.
 
-* 
 ## 7.19.12.20 - 2019-12-20
 
 ### Fixed
