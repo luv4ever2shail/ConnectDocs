@@ -20,7 +20,9 @@ Download and run the setup file below.
 
 ## Can I get right access to....?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating. Please [ContactUs ](mailto:shail@spm-automation.com)in this case.
 
+## What changed on the new update?
 
+Please refer to [Change log](release-logs.md) page for all the release notes and changes made on new update.
 
