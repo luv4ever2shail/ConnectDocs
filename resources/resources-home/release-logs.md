@@ -4,21 +4,6 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 
 # 😋Change log
 
-## 7.20.01.30 - 2020-01-30
-
-### Fixed
-
-* Shipping module now lets you select customer/vendor with same name but different properties
-* Purchase Req module, higher approval can now disapprove a purchase req.
-
-### Improvements
-
-* Optimized memory drain from error handler.
-
-### In Progress
-
-* Optimizing application to work with higher dpi screens. \(Dell xps 15 4K screens\)
-
 ## 7.20.1.23 - 2020-01-23
 
 ### Improvements
