@@ -86,6 +86,7 @@
 
 * [Resources Home](resources/resources-home/README.md)
   * [⏬Installing SPM Connect](resources/resources-home/installing-spm-connect.md)
+  * [✨ Installing SPM Connect Addin](resources/resources-home/installing-spm-connect-addin.md)
   * [⏩Keyboard shortcuts](resources/resources-home/keyboard-shortcuts.md)
   * [😋Change log](resources/resources-home/release-logs.md)
   * [🙋‍♂️FAQ](resources/resources-home/faq.md)
@@ -94,6 +95,4 @@
   * [🔥Searching Tips](search-tips/searching-tips.md)
   * [📰Report Viewer](search-tips/report-viewer.md)
 * [Contact Us](mailto:shail@spm-automation.com)
-
-## Resources <a id="resources-1"></a>
 
